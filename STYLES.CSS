@@ -1,4 +1,15 @@
 header{
     background-color: blue;
-    color: white;
+    color: #ffff;
+}
+
+.container{
+
+    background-color: lightgray;
+    color: black;
+
+}
+
+p{
+    color: red;
 }
