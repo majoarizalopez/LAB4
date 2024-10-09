@@ -1,6 +1,6 @@
 header{
     background-color: blue;
-    color: #ffff;
+    color: white;
 }
 
 .container{
@@ -12,4 +12,10 @@ header{
 
 p{
     color: red;
+}
+
+.highlight{
+
+    color: green;
+
 }
