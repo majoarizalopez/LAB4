@@ -46,3 +46,7 @@ text-decoration-line: underline;
 #intro{
     font-weight: 300;
 }
+
+body{
+    font-family:Arial, sans-serif;
+}
