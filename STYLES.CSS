@@ -58,3 +58,7 @@ body{
 .heading{
     text-transform: uppercase;
 }
+
+.capitalize-text{
+    text-transform: capitalize;
+}
