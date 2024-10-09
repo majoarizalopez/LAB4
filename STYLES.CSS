@@ -27,3 +27,9 @@ p{
 .center{
     text-align: center;
 }
+
+.underline{
+
+    text-decoration-line: underline;
+
+}
