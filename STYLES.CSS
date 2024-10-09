@@ -23,3 +23,7 @@ p{
 .main-content{
     color: yellow;
 }
+
+.center{
+    text-align: center;
+}
